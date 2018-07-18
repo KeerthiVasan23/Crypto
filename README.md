@@ -7,7 +7,7 @@ Custom .py script to encrypt or decrypt ROT-n ciphers. Decrypt even without know
 pyenchant -python spellchecking library
 
 _As stated in official documentation python 3.0 is intentionally backwards incompatible_
-https://docs.python.org/release/3.0.1/whatsnew/3.0.html 
+(https://docs.python.org/release/3.0.1/whatsnew/3.0.html)
 
 ### To avoid dependency issues :
 (run below commands in linux terminal)
