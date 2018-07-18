@@ -16,6 +16,6 @@ sudo apt install python3-pip
 pip3 install pyEnchant
 
 NOTE:
-$ ROT-13 applied twice will yields same text
-$ To decrypt without knowing key, cipher text must yeild a valid english text
-$ ROT-n virtually provides no cryptographic security
+* ROT-13 applied twice will yields same text
+* To decrypt without knowing key, cipher text must yeild a valid english text
+* ROT-n virtually provides no cryptographic security
