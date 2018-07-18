@@ -17,5 +17,5 @@ pip3 install pyEnchant
 
 NOTE:
 * ROT-13 applied twice will yields same text
-* To decrypt without knowing key, cipher text must yeild a valid english text
+* To decrypt without knowing key, cipher text must yeild valid english words
 * ROT-n virtually provides no cryptographic security
