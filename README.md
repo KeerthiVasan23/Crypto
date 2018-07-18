@@ -1,15 +1,15 @@
 # Crypto
 
------ROT.py-----
+#-----ROT.py-----
 Custom .py script to encrypt or decrypt ROT-n ciphers. Decrypt even without knowing key(i.e n).
 
-Requirments and/or Dependencies:
+##Requirments and/or Dependencies:
 pyenchant -python spellchecking library
 
 _As stated in official documentation python 3.0 is intentionally backwards incompatible_
 https://docs.python.org/release/3.0.1/whatsnew/3.0.html 
 
-To avoid dependency issues :
+###To avoid dependency issues :
 (run below commands in linux terminal)
 
 sudo apt install python3-pip   
